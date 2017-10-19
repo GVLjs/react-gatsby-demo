@@ -1,0 +1,20 @@
+{
+  "name": "react-gvl-gatsby",
+  "description": "REACTGVL Demo",
+  "version": "1.0.0",
+  "author": "Robert Gonzales <robert@robertgonzal.es>",
+  "dependencies": {
+    "gatsby": "^1.9.63",
+    "gatsby-link": "^1.6.21",
+    "gatsby-plugin-react-helmet": "^1.0.5"
+  },
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop"
+  },
+  "devDependencies": {
+    "prettier": "^1.7.4"
+  }
+}
